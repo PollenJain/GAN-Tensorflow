@@ -9,5 +9,5 @@ Once you have the appropriately resized dataset,
 GAN_All.ipynb
 can be directly used.
 
-Helpful links:
+Helpful link:
 http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/
