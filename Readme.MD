@@ -11,3 +11,6 @@ can be directly used.
 
 Helpful link:
 http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/
+basic understanding of GAN :- http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/
+mathematics of GAN in efficient way : http://blog.evjang.com/2016/06/generative-adversarial-nets-in.html
+
